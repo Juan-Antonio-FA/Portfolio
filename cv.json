@@ -1,0 +1,121 @@
+{
+    "basics": {
+      "name": "John Doe",
+      "label": "Programmer",
+      "image": "https://scontent.flap1-1.fna.fbcdn.net/v/t39.30808-1/298069410_3399222600354231_873083431626606397_n.jpg?stp=dst-jpg_p320x320&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGWb6Hr9AKShg-1-J-m2XTH1pVcLswHOEbWlVwuzAc4RlwG0HkWcHVzsUQNYin-cuUl3jD03wIFF6TDnMujIOsI&_nc_ohc=soAv89_dkFcAb7wtmEp&_nc_ht=scontent.flap1-1.fna&oh=00_AfAgmCuARQqqVnDxckF9Dq2zzWUcBFpEdEg_Lrl8ku1Tjw&oe=6613B2CA",
+      "email": "john@gmail.com",
+      "phone": "(912) 555-4321",
+      "url": "https://johndoe.com",
+      "summary": "A summary of John Doe…",
+      "location": {
+        "address": "2712 Broadway St",
+        "postalCode": "CA 94115",
+        "city": "San Francisco",
+        "countryCode": "US",
+        "region": "California"
+      },
+      "profiles": [
+        {
+            "network": "X",
+            "username": "john",
+            "url": "https://x.com/john"
+        },
+        {
+            "network": "Github",
+            "username": "john",
+            "url": "https://githun.com/midudev"
+        },
+        {
+            "network": "LinkedIn",
+            "username": "john",
+            "url": "https://linkedin.com/in/midudev"
+        }]
+    },
+    "work": [{
+      "name": "Company",
+      "position": "President",
+      "url": "https://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    }]
+  }
