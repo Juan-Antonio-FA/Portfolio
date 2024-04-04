@@ -36,7 +36,7 @@
       "position": "President",
       "url": "https://company.com",
       "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
+      "endDate": "null",
       "summary": "Description…",
       "highlights": [
         "Started the company"
@@ -116,6 +116,8 @@
       "highlights": [
         "Won award at AIHacks 2016"
       ],
-      "url": "https://project.com/"
+      "url": "https://project.com/",
+      "isActive": true
+
     }]
   }
