@@ -1,7 +1,7 @@
 {
     "basics": {
-      "name": "John Doe",
-      "label": "Programmer",
+      "name": "Juan Antonio",
+      "label": "Software Engineer",
       "image": "https://scontent.flap1-1.fna.fbcdn.net/v/t39.30808-1/298069410_3399222600354231_873083431626606397_n.jpg?stp=dst-jpg_p320x320&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGWb6Hr9AKShg-1-J-m2XTH1pVcLswHOEbWlVwuzAc4RlwG0HkWcHVzsUQNYin-cuUl3jD03wIFF6TDnMujIOsI&_nc_ohc=soAv89_dkFcAb7wtmEp&_nc_ht=scontent.flap1-1.fna&oh=00_AfAgmCuARQqqVnDxckF9Dq2zzWUcBFpEdEg_Lrl8ku1Tjw&oe=6613B2CA",
       "email": "john@gmail.com",
       "phone": "(912) 555-4321",
@@ -16,19 +16,19 @@
       },
       "profiles": [
         {
+            "network": "GitHub",
+            "username": "john",
+            "url": "https://github.com/Juan-Antonio-FA"
+        },
+        {
             "network": "X",
             "username": "john",
             "url": "https://x.com/john"
         },
         {
-            "network": "Github",
-            "username": "john",
-            "url": "https://githun.com/midudev"
-        },
-        {
             "network": "LinkedIn",
             "username": "john",
-            "url": "https://linkedin.com/in/midudev"
+            "url": "https://www.linkedin.com/in/juanantoniofa/"
         }]
     },
     "work": [{

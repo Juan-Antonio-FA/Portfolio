@@ -33,7 +33,10 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
                 <WorldMap />
                 {city},{region}
             </span>
-            <footer>
+            <footer class="print">
+                {printInfo}
+            </footer>
+            <footer class="no-print">
                 {
                     email && (
                         <a 
@@ -128,6 +131,8 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
     }
 
     footer{
+        color:#444;
+        font-size: 0.65rem;
         display: flex;
         gap: 4px;
         margin-top: 8px;
